@@ -1,0 +1,32 @@
+#1 task.
+1. Download "The C programming language" 2nd edition book and open it on your computer;
+The book is downloaded from ... . All necessary application to open it are installed (e.g. Adobe Reader).
+
+2. Download, install and config Code::Blocks application on your comp to compose and compile programs there;
+The app is downloaded from ... . Installed, configured. I can compose source codes and run them.
+
+3. To read the beginning of the chapter 1, the section 1.1 and execute exercises.
+Done. Exercises are done (see attached files).
+
+Recommendations. To read on wiki about:
+a) C programming language;
+read. I learnt ...
+
+
+b) IDE (integrated development environment);
+read. I learnt ...
+
+c) Code::Blocks.
+read. I learnt ...
+
+To read all before chapter 1 of the C Progr lang book.
+Done. I learnt ... or/and It is about ...
+
+Additional
+I leant ...
+I done ... and see files
+etc
+
+
+name 
+29.03.2019

@@ -1,0 +1,21 @@
+Report Task #1
+
+C is one of the programming languages like phython, C++ or Java.
+However, it is neeither a high level language nor a big one, and is not specialized to 
+any particular area of application.
+
+C was originally designed for and implemented on the UNIX operating system by Dennis  Ritchie.
+
+Overall, C is  a pleasant, expressive, and versatile language for a wide vatiety of programs. 
+So, it is suitable for not just for progamming amatuers, but also for beginners like me.
+
+In Chapter 1: 1.1 Getting Started
+
+I learnt to utilize the CodeBlocks to code the C program, and understood of what the 
+language looks like as well as the fundamental (terms and definitions) of C itself. 
+I spent time to do try and error as in Ex. 1.1 in which I have provided the photo for you to see.
+
+
+
+28/3/20 
+Naruesorn Dechnorachai 
